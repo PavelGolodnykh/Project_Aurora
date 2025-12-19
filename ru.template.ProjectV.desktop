@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=ru.template.ProjectV
+Exec=/usr/bin/ru.template.ProjectV
+Name=Template
+Name[ru]=Шаблон
+
+[X-Application]
+Permissions=Internet;MediaIndexing;UserDirs
+OrganizationName=ru.template
+ApplicationName=ProjectV
+ExecDBus=/usr/bin/ru.template.ProjectV
